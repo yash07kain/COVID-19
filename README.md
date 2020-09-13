@@ -44,7 +44,7 @@ Validation accuracy = 79.64%<br /><br />
 
 The graph is shown below:-<br /><br />
 
-<img src="https://github.com/gearhead0909/Covid-19/blob/master/Score.jpg" alt="alt text" width="500" height="300"><br /><br />
+<img src="https://github.com/yash07kain/COVID-19/blob/master/Score.jpg" alt="alt text" width="500" height="300"><br /><br />
 
 After that we will save our trained model.<br />
 So that we can load it later and perform prediction.<br /><br />
