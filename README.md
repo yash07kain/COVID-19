@@ -1,3 +1,4 @@
+#Copyright_Yash_Kain®️
 # Covid-19-detection
 Automated detection of COVID-19 cases using X-Ray images. <br /><br />
 
