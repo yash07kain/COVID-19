@@ -39,8 +39,8 @@ Training Loss vs Validation Loss<br /><br />
 
 After training <br />
 We reached :- <br />
-Training accuracy = 79.06%    <br />
-Validation accuracy = 79.64%<br /><br />
+Training accuracy = 79.06%.    <br />
+Validation accuracy = 79.64%.<br /><br />
 
 The graph is shown below:-<br /><br />
 
