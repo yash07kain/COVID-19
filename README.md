@@ -50,4 +50,4 @@ After that we will save our trained model.<br />
 So that we can load it later and perform prediction.<br /><br />
 
 After evaluating,<br />
-We achieved of 74.63%
+We achieved of 74.63%.
